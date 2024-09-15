@@ -1,7 +1,7 @@
 ## 👋 Hey, I'm Nekena Rabeharivonjy
 **Student at 42 Antananarivo | Passionate Software Developer | Creator of Innovative Projects | Full-Stack JavaScript Developer**
 
-🎓 I’m currently studying at **42 Antananarivo**, where I’m sharpening my skills in both **system programming** and **web development**. With a solid foundation in C, Shell scripting, and JavaScript, I’m focusing on building dynamic and scalable web applications. I’ve also gained valuable experience in **system administration** and plan to explore **cybersecurity** in the future.
+🎓 I’m currently studying at **42 Antananarivo**, where I’m sharpening my skills in both **system programming** and **web development**. With a solid foundation in C, Shell scripting, and JavaScript, with a focus on theoretical computer science and process management. I’ve also gained valuable experience in **system administration** and plan to explore **cybersecurity** in the future.
 
 ## 🛠️ Tech Stack & Interests
 - **Languages**: C/C++, Shell, JavaScript, Python, TypeScript

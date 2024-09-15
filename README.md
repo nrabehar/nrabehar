@@ -1,5 +1,5 @@
 ## 👋 Hey, I'm Nekena Rabeharivonjy
-**Student at 42 Antananarivo | Full-Stack JavaScript Developer | Passionate about System Development and Cybersecurity**
+**Student at 42 Antananarivo | Passionate Software Developer | Creator of Innovative Projects | Full-Stack JavaScript Developer**
 
 🎓 I’m currently studying at **42 Antananarivo**, where I’m sharpening my skills in both **system programming** and **web development**. With a solid foundation in C, Shell scripting, and JavaScript, I’m focusing on building dynamic and scalable web applications. I’ve also gained valuable experience in **system administration** and plan to explore **cybersecurity** in the future.
 
@@ -17,11 +17,8 @@ Here’s a glimpse of some of the projects I’ve worked on:
 ## 🏛️ 42 Cursus Projects
 All my projects from the **42 Antananarivo** program are organized and documented in the **[42-cursus](#)** repository. Here you’ll find projects ranging from system-level programming challenges to more complex tasks involving algorithms, data structures, and operating systems.
 
-## 🌐 Full-Stack Web Development
-I’m actively pursuing **full-stack JavaScript** development, focusing on building web applications using **Node.js, Express, React**, and **MongoDB**. My goal is to continue mastering both front-end and back-end development while building efficient, scalable applications.
-
-## 🔒 Exploring Cybersecurity
-As my next major step, I plan to explore the world of **cybersecurity**. Combining my knowledge of **system architecture** with security principles, I aim to understand and solve real-world security challenges. With my background in system programming, I believe this will open up exciting opportunities for learning and growth.
+## 🔒 Web Development and Future Goals
+Alongside system development, I am deeply interested in web technologies. I’m currently honing my skills in **full-stack JavaScript development** and look forward to building dynamic web applications. As I grow as a developer, I plan to explore **cybersecurity**, combining my knowledge of system architecture with security principles to tackle real-world challenges.
 
 ---
 

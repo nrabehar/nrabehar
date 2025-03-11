@@ -3,8 +3,9 @@
   <img class="image" src="res/header.svg" alt="Click to see the source">
  </a>
 </div>
+
 # 💫 About Me:
-I’m currently studying at 42 Antanarivo<br>where I’m sharpening my skills in both **system programming** and **web development**.<br>With a solid foundation in C/C++, Shell scripting, and JavaScript<br>🛠️ Tech Stack & Interests<br>- **Languages**: C/C++, Shell, JavaScript, Python, TypeScript<br>- **Frameworks & Tools**: Node.js, Express, NextJs, MongoDB<br>- **System**: Low-level C development, Shell scripting, multithreading, process management<br>- **Current Focus**: Full-stack JavaScript development, backend systems
+I’m currently studying at [42 Antananarivo](https://42antananarivo.mg/)<br>where I’m sharpening my skills in both **system programming** and **web development**.<br>With a solid foundation in C/C++, Shell scripting, and JavaScript<br>🛠️ Tech Stack & Interests<br>- **Languages**: C/C++, Shell, JavaScript, Python, TypeScript<br>- **Frameworks & Tools**: Node.js, Express, NextJs, MongoDB<br>- **System**: Low-level C development, Shell scripting, multithreading, process management<br>- **Current Focus**: Full-stack JavaScript development, backend systems
 
 
 ## 🌐 Socials:

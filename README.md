@@ -1,25 +1,36 @@
-## 👋 Hey, I'm Nekena Rabeharivonjy
-**Student at 42 Antananarivo | Passionate Software Developer | Creator of Innovative Projects | Full-Stack JavaScript Developer**
+<div align="center">
+ <a class="link" href="res/header.svg">
+  <img class="image" src="res/header.svg" alt="Click to see the source">
+ </a>
+</div>
+# 💫 About Me:
+I’m currently studying at 42 Antanarivo<br>where I’m sharpening my skills in both **system programming** and **web development**.<br>With a solid foundation in C/C++, Shell scripting, and JavaScript<br>🛠️ Tech Stack & Interests<br>- **Languages**: C/C++, Shell, JavaScript, Python, TypeScript<br>- **Frameworks & Tools**: Node.js, Express, NextJs, MongoDB<br>- **System**: Low-level C development, Shell scripting, multithreading, process management<br>- **Current Focus**: Full-stack JavaScript development, backend systems
 
-🎓 I’m currently studying at **[42 Antananarivo](https://42antananarivo.mg/)**, where I’m sharpening my skills in both **system programming** and **web development**. With a solid foundation in C, Shell scripting, and JavaScript, with a focus on theoretical computer science and process management. I’ve also gained valuable experience in **system administration** and plan to explore **cybersecurity** in the future.
 
-## 🛠️ Tech Stack & Interests
-- **Languages**: C/C++, Shell, JavaScript, Python, TypeScript
-- **Frameworks & Tools**: Node.js, Express, React, MongoDB
-- **System**: Low-level C development, Shell scripting, multithreading, process management
-- **Current Focus**: Full-stack JavaScript development, backend systems, and diving into cybersecurity 🔒
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nrabehar) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/snekena) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s.nekena) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nrabehar) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@d1m1.k) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@d1m1k) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:safnekena1)
 
-## 💡 Featured Projects
-Here’s a glimpse of some of the projects I’ve worked on:
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nrabehar&theme=transparent&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nrabehar&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nrabehar&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-- **[fanorona-server](#)**: Developed a multiplayer server in **JavaScript** for the traditional Malagasy strategy game **Fanorona**, focusing on real-time interaction and game logic.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nrabehar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 🏛️ 42 Cursus Projects
-All my projects from the **[42 Antananarivo](https://42antananarivo.mg/)** program are organized and documented in the **[42-cursus](#)** repository. Here you’ll find projects ranging from system-level programming challenges to more complex tasks involving algorithms, data structures, and operating systems.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🔒 Web Development and Future Goals
-Alongside system development, I am deeply interested in web technologies. I’m currently honing my skills in **full-stack JavaScript development** and look forward to building dynamic web applications. As I grow as a developer, I plan to explore **cybersecurity**, combining my knowledge of system architecture with security principles to tackle real-world challenges.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=nrabehar&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=nrabehar&icon=2&color=9)](https://visitcount.itsvg.in)
 
-💬 **Feel free to explore my repositories, reach out, and let’s collaborate on exciting projects!**
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nrabehar) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nrabehar) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/nrabehar) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nrabehar)
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

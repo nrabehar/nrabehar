@@ -39,14 +39,9 @@
 </style>
 <div align="center" style="
 ">
-  <h1 class="animated-title" style="
-    background: linear-gradient(270deg, #ff6ec4, #7873f5, #4adede, #1dc4e9);
-    background-size: 800% 800%;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    animation: gradient 8s ease infinite;
-    font-size: 6vw;
-  ">Nekena Rabeharivonjy</h1>
+
+![Animated Gradient Text](./res/name.svg)
+
 </div>
 <div align="center" class="wrapper">
 <div class="card">

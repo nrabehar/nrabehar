@@ -1,23 +1,32 @@
-<div align="center" style="
-">
+# 👋 Hello and Welcome!
 
-![Animated Gradient Text](./res/name.svg)
+I'm thrilled to have you here! Dive into my projects and feel free to reach out through the social media links below. Together, we can create amazing things!
 
-</div>
-<div align="center" class="wrapper">
-<div class="card">
-  <h3>Project 1</h3>
-  <p>A web application built with React and Node.js that allows users to track their tasks and manage their time efficiently.</p>
-</div>
-<div class="card">
-  <h3>Project 2</h3>
-  <p>An e-commerce platform developed using Next.js and MongoDB, featuring a user-friendly interface and secure payment integration.</p>
-</div>
-<div class="card">
-  <h3>Project 3</h3>
-  <p>A mobile app created with React Native and Firebase for real-time chat and collaboration among team members.</p>
-</div>
-</div>
+---
+
+<div align="center">
+
+### 🚀 Projects
+
+  <div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
+    <div style="flex: 1 1 calc(33% - 1rem); border-radius: 8px; box-shadow: 0 4px 8px rgba(55, 0, 0, 0.1), 0 6px 20px rgba(0, 0, 85, 0.1); padding: 10px; box-sizing: border-box;">
+      <h3>Project 1</h3>
+      <p>A web application built with React and Node.js that allows users to track their tasks and manage their time efficiently.</p>
+      <a href="https://github.com/nrabehar/project1" target="_blank"><img src="https://img.shields.io/github/stars/nrabehar/project1?style=social" alt="GitHub stars"></a>
+    </div>
+    <div style="flex: 1 1 calc(33% - 1rem); border-radius: 8px; box-shadow: 0 4px 8px rgba(85, 0, 55, 0.1), 0 6px 20px rgba(0, 0, 85, 0.1); padding: 10px; box-sizing: border-box;">
+      <h3>Project 2</h3>
+      <p>An e-commerce platform developed using Next.js and MongoDB, featuring a user-friendly interface and secure payment integration.</p>
+      <a href="https://github.com/nrabehar/project2" target="_blank"><img src="https://img.shields.io/github/stars/nrabehar/project2?style=social" alt="GitHub stars"></a>
+    </div>
+    <div style="flex: 1 1 calc(33% - 1rem); border-radius: 8px; box-shadow: 0 4px 8px rgba(55, 0, 0, 0.1), 0 6px 20px rgba(55, 0, 85, 0.1); padding: 10px; box-sizing: border-box;">
+      <h3>Project 3</h3>
+      <p>A mobile app created with React Native and Firebase for real-time chat and collaboration among team members.</p>
+      <a href="https://github.com/nrabehar/project3" target="_blank"><img src="https://img.shields.io/github/stars/nrabehar/project3?style=social" alt="GitHub stars"></a>
+    </div>
+    </div>
+
+<br/>
 <div align="center">
 
 # 💫 About Me
@@ -25,13 +34,17 @@
 I’m currently studying at [42 Antananarivo](https://42antananarivo.mg/)<br>where I’m sharpening my skills in both **system programming** and **web development**.<br>With a solid foundation in C/C++, Shell scripting, and JavaScript.
 
 ## 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nrabehar) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/snekena) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s.nekena) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nrabehar) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@d1m1.k) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@d1m1k) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:safnekena1)
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nrabehar) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/snekena) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s.nekena) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nrabehar) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@d1m1.k) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@d1m1k) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:safnekena1@gmail.com)
+
 </div>
 
 # 💻 Tech Stack:
+
 <table><tr><td valign="top" width="33%">
 
 ### Frontend
+
 <div align="center">
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>
@@ -50,9 +63,8 @@ I’m currently studying at [42 Antananarivo](https://42antananarivo.mg/)<br>whe
 
 </td><td valign="top" width="33%">
 
-
-
 ### Backend
+
 <div align="center">
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
@@ -72,9 +84,8 @@ I’m currently studying at [42 Antananarivo](https://42antananarivo.mg/)<br>whe
 
 </td><td valign="top" width="33%">
 
-
-
 ### DevOps
+
 <div align="center">
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
@@ -86,6 +97,7 @@ I’m currently studying at [42 Antananarivo](https://42antananarivo.mg/)<br>whe
 <br/>
 
 # 📊 GitHub Stats:
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nrabehar&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%;margin-bottom:1rem;" /></div>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrabehar&hide_border=true&layout=compact" align="left" style="width: 100%; margin-bottom:1rem;" />
@@ -95,15 +107,19 @@ I’m currently studying at [42 Antananarivo](https://42antananarivo.mg/)<br>whe
 <div align="center">
 
 # 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=nrabehar&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=nrabehar&icon=2&color=9)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nrabehar) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nrabehar)
+## 💰 You can help me by Donating
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nrabehar) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nrabehar)
 
 </div>

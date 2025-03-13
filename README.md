@@ -8,36 +8,34 @@ I'm thrilled to have you here! Dive into my projects and feel free to reach out 
 
 ### 🚀 Projects
 
-  <div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
-    <div style="flex: 1 1 calc(33% - 1rem); border-radius: 8px; box-shadow: 0 4px 8px rgba(55, 0, 0, 0.1), 0 6px 20px rgba(0, 0, 85, 0.1); padding: 10px; box-sizing: border-box;">
-      <h3>Project 1</h3>
-      <p>A web application built with React and Node.js that allows users to track their tasks and manage their time efficiently.</p>
-      <a href="https://github.com/nrabehar/project1" target="_blank"><img src="https://img.shields.io/github/stars/nrabehar/project1?style=social" alt="GitHub stars"></a>
-    </div>
-    <div style="flex: 1 1 calc(33% - 1rem); border-radius: 8px; box-shadow: 0 4px 8px rgba(85, 0, 55, 0.1), 0 6px 20px rgba(0, 0, 85, 0.1); padding: 10px; box-sizing: border-box;">
-      <h3>Project 2</h3>
-      <p>An e-commerce platform developed using Next.js and MongoDB, featuring a user-friendly interface and secure payment integration.</p>
-      <a href="https://github.com/nrabehar/project2" target="_blank"><img src="https://img.shields.io/github/stars/nrabehar/project2?style=social" alt="GitHub stars"></a>
-    </div>
-    <div style="flex: 1 1 calc(33% - 1rem); border-radius: 8px; box-shadow: 0 4px 8px rgba(55, 0, 0, 0.1), 0 6px 20px rgba(55, 0, 85, 0.1); padding: 10px; box-sizing: border-box;">
-      <h3>Project 3</h3>
-      <p>A mobile app created with React Native and Firebase for real-time chat and collaboration among team members.</p>
-      <a href="https://github.com/nrabehar/project3" target="_blank"><img src="https://img.shields.io/github/stars/nrabehar/project3?style=social" alt="GitHub stars"></a>
-    </div>
-    </div>
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h3>Fanorona</h3>
+      <p>A strategic board game implemented in C, utilizing the MinilibX library for graphical interface. This project showcases advanced algorithmic techniques and interactive gameplay.</p>
+      <a href="https://github.com/w3bu1/hackaton_24_06_2024" target="_blank"><img src="https://img.shields.io/github/stars/w3bu1/hackaton_24_06_2024?style=social" alt="GitHub stars"></a>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h3>Aviaca</h3>
+      <p>Aviaca is a sleek and responsive landing page for an aviator game top time generator.</p>
+      <a href="https://github.com/nrabehar/aviaca" target="_blank"><img src="https://img.shields.io/github/stars/nrabehar/aviaca?style=social" alt="GitHub stars"></a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 <br/>
-<div align="center">
 
 # 💫 About Me
+
+**Student at 42 Antananarivo | Passionate Software Developer | Creator of Innovative Projects | Full-Stack JavaScript Developer**
 
 I’m currently studying at [42 Antananarivo](https://42antananarivo.mg/)<br>where I’m sharpening my skills in both **system programming** and **web development**.<br>With a solid foundation in C/C++, Shell scripting, and JavaScript.
 
 ## 🌐 Socials
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nrabehar) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/snekena) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s.nekena) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nrabehar) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@d1m1.k) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@d1m1k) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:safnekena1@gmail.com)
-
-</div>
 
 # 💻 Tech Stack:
 
@@ -116,7 +114,7 @@ I’m currently studying at [42 Antananarivo](https://42antananarivo.mg/)<br>whe
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=nrabehar&icon=2&color=9)](https://visitcount.itsvg.in)
+![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fnrabehar&s=39&c=613583&bg=00000000&no=2&ff=alien&tb=Visit+count%3A+&ta=)
 
 ## 💰 You can help me by Donating
 

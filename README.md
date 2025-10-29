@@ -16,9 +16,9 @@ I'm thrilled to have you here! Dive into my projects and feel free to reach out 
       <a href="https://github.com/w3bu1/hackaton_24_06_2024" target="_blank"><img src="https://img.shields.io/github/stars/w3bu1/hackaton_24_06_2024?style=social" alt="GitHub stars"></a>
     </td>
     <td align="center" valign="top" width="50%">
-      <h3>Aviaca</h3>
-      <p>Aviaca is a sleek and responsive landing page for an aviator game top time generator.</p>
-      <a href="https://github.com/nrabehar/aviaca" target="_blank"><img src="https://img.shields.io/github/stars/nrabehar/aviaca?style=social" alt="GitHub stars"></a>
+      <h3>Webserv</h3>
+      <p>A simple web server.</p>
+      <a href="https://github.com/nrabehar/webserv" target="_blank"><img src="https://img.shields.io/github/stars/nrabehar/aviaca?style=social" alt="GitHub stars"></a>
     </td>
   </tr>
 </table>

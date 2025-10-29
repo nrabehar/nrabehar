@@ -18,7 +18,7 @@ I'm thrilled to have you here! Dive into my projects and feel free to reach out 
     <td align="center" valign="top" width="50%">
       <h3>Webserv</h3>
       <p>A simple web server.</p>
-      <a href="https://github.com/nrabehar/webserv" target="_blank"><img src="https://img.shields.io/github/stars/nrabehar/aviaca?style=social" alt="GitHub stars"></a>
+      <a href="https://github.com/nrabehar/webserv" target="_blank"><img src="https://img.shields.io/github/stars/nrabehar/webserv?style=social" alt="GitHub stars"></a>
     </td>
   </tr>
 </table>
